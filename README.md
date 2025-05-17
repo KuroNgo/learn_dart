@@ -61,8 +61,4 @@
     - Set and HashSet 
     - Map and HashMap 
 12. Callable Classes 
-13. Conclusion 
-
-## Authors
-
-* **Sriyank Siddhartha** 
+    
