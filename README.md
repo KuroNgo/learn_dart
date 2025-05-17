@@ -1,2 +1,2 @@
 ## LEARN DART
-[Reference resource]("https://github.com/smartherd/DartTutorial")
+[Reference resource](https://github.com/smartherd/DartTutorial)
