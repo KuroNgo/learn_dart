@@ -18,7 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 --- 
 
 ## Tree Folder
-
+```
 lib/
 ├── core/ # Theme, constants, base widgets, exceptions
 ├── features/ # Organized by feature
@@ -30,7 +30,7 @@ lib/
 ├── shared/ # Reusable helpers, services
 ├── app.dart # App config: router, theme, DI
 └── main.dart # App entry point
-
+```
 ---
 
 ## Technologies Used
